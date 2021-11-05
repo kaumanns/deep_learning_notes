@@ -1,0 +1,10 @@
+ipykernel
+keras
+matplotlib
+nbformat
+neovim
+numpy
+pandas
+pydot
+sklearn
+tensorflow
