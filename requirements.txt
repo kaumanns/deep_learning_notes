@@ -2,7 +2,9 @@ ipykernel
 keras
 matplotlib
 nbformat
+nbstripout
 neovim
+notebook
 numpy
 pandas
 pydot
